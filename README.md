@@ -19,8 +19,4 @@ The dataset contains information about Rockbuster's dvd rental information and a
 - [Rockbuster dvd rental dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 - [Rockbuster actor dataset](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)
 
-## Visualizations
-The following are Tableau visualizations
-- [Consumer Base](https://public.tableau.com/app/profile/xuan.nguyen1929/viz/ConsumerBasebyCountry/ConsumerBasebyCountry?publish=yes)
-- [Distribution of Top 100 Customers with Highest Lifetime Value](https://public.tableau.com/app/profile/xuan.nguyen1929/viz/DistributionofTop100CustomerswithHighestLifetimeValue/LifetimeValue?publish=yes)
-- [Geographic Sales](https://public.tableau.com/app/profile/xuan.nguyen1929/viz/GeographicSales_16766905456710/GeographicSales?publish=yes)
+
